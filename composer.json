@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dolondro/google-authenticator":"^2.0",
+        "sonata-project/google-authenticator": "^2.2"
+    }
+}
